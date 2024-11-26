@@ -1,0 +1,9 @@
+
+2024-11-26 23:19:01,392: INFO: <module> Initializing Browser
+2024-11-26 23:19:03,391: INFO: <module> Hitting the URL
+2024-11-26 23:19:07,818: INFO: test_recurring_amount_validation Clicked on Revenue Calculator link
+2024-11-26 23:19:08,798: INFO: test_recurring_amount_validation Target value is adjusted on Slider
+2024-11-26 23:19:08,964: INFO: test_recurring_amount_validation Required value is entered in text field
+2024-11-26 23:19:09,634: INFO: test_recurring_amount_validation Selected required checkboxes
+2024-11-26 23:19:09,697: INFO: test_recurring_amount_validation Total Recurring Reimbursement for all Patients Per Month:$110700
+2024-11-26 23:19:09,712: INFO: <module> Closing the browser
